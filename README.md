@@ -14,3 +14,12 @@ This is a mod for [Foundation](https://foundation-game.fandom.com/wiki/Foundatio
 ## resources
 
 [The Foundation Modding Documentation](https://www.polymorph.games/foundation/modding/)
+[Foundation Mod Library](https://mod.io/g/foundation)
+
+I've drawn heavily from the following:
+
+- [BetterFarms](https://mod.io/g/foundation/m/webetterfarms#description)
+- [LivestockPlus](https://mod.io/g/foundation/m/livestockplus#discussion)
+
+Thank you to these authors who's work has inspired me to try this and informed me to create my first mod.
+If you wish to use these mods, please download the original work from mod.io to give these authors credit.
